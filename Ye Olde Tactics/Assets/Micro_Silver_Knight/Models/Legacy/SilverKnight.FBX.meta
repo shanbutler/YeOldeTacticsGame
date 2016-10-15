@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: e1e0955b92ad1da4fa92ac8cc68ba03d
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SilverKnight_Bip001
+    100004: SilverKnight_Bip001 Footsteps
+    100006: SilverKnight_Bip001 Head
+    100008: SilverKnight_Bip001 HeadNub
+    100010: SilverKnight_Bip001 L Calf
+    100012: SilverKnight_Bip001 L Clavicle
+    100014: SilverKnight_Bip001 L Foot
+    100016: SilverKnight_Bip001 L Forearm
+    100018: SilverKnight_Bip001 L Hand
+    100020: SilverKnight_Bip001 L Thigh
+    100022: SilverKnight_Bip001 L Toe0
+    100024: SilverKnight_Bip001 L Toe0Nub
+    100026: SilverKnight_Bip001 L UpperArm
+    100028: SilverKnight_Bip001 Neck
+    100030: SilverKnight_Bip001 Pelvis
+    100032: SilverKnight_Bip001 Prop1
+    100034: SilverKnight_Bip001 Prop2
+    100036: SilverKnight_Bip001 R Calf
+    100038: SilverKnight_Bip001 R Clavicle
+    100040: SilverKnight_Bip001 R Foot
+    100042: SilverKnight_Bip001 R Forearm
+    100044: SilverKnight_Bip001 R Hand
+    100046: SilverKnight_Bip001 R Thigh
+    100048: SilverKnight_Bip001 R Toe0
+    100050: SilverKnight_Bip001 R Toe0Nub
+    100052: SilverKnight_Bip001 R UpperArm
+    100054: SilverKnight_Bip001 Spine
+    100056: SilverKnight_Bip001 Spine1
+    100058: SK_Body
+    100060: SK_Shield
+    100062: SK_Sword
+    100064: SK_Weapon_Bone001
+    100066: SK_Weapon_Bone002
+    100068: Sk_Weapon_Ctl
+    100070: Sk_Weapon_Ctl01
+    400000: //RootNode
+    400002: SilverKnight_Bip001
+    400004: SilverKnight_Bip001 Footsteps
+    400006: SilverKnight_Bip001 Head
+    400008: SilverKnight_Bip001 HeadNub
+    400010: SilverKnight_Bip001 L Calf
+    400012: SilverKnight_Bip001 L Clavicle
+    400014: SilverKnight_Bip001 L Foot
+    400016: SilverKnight_Bip001 L Forearm
+    400018: SilverKnight_Bip001 L Hand
+    400020: SilverKnight_Bip001 L Thigh
+    400022: SilverKnight_Bip001 L Toe0
+    400024: SilverKnight_Bip001 L Toe0Nub
+    400026: SilverKnight_Bip001 L UpperArm
+    400028: SilverKnight_Bip001 Neck
+    400030: SilverKnight_Bip001 Pelvis
+    400032: SilverKnight_Bip001 Prop1
+    400034: SilverKnight_Bip001 Prop2
+    400036: SilverKnight_Bip001 R Calf
+    400038: SilverKnight_Bip001 R Clavicle
+    400040: SilverKnight_Bip001 R Foot
+    400042: SilverKnight_Bip001 R Forearm
+    400044: SilverKnight_Bip001 R Hand
+    400046: SilverKnight_Bip001 R Thigh
+    400048: SilverKnight_Bip001 R Toe0
+    400050: SilverKnight_Bip001 R Toe0Nub
+    400052: SilverKnight_Bip001 R UpperArm
+    400054: SilverKnight_Bip001 Spine
+    400056: SilverKnight_Bip001 Spine1
+    400058: SK_Body
+    400060: SK_Shield
+    400062: SK_Sword
+    400064: SK_Weapon_Bone001
+    400066: SK_Weapon_Bone002
+    400068: Sk_Weapon_Ctl
+    400070: Sk_Weapon_Ctl01
+    4300000: SK_Body
+    4300002: SK_Sword
+    4300004: SK_Shield
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: SK_Body
+    13700002: SK_Shield
+    13700004: SK_Sword
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,641 @@
+fileFormatVersion: 2
+guid: 8f937890c19985e4195666bcae2f916f
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SilverKnight_Bip001
+    100004: SilverKnight_Bip001 Footsteps
+    100006: SilverKnight_Bip001 Head
+    100008: SilverKnight_Bip001 HeadNub
+    100010: SilverKnight_Bip001 L Calf
+    100012: SilverKnight_Bip001 L Clavicle
+    100014: SilverKnight_Bip001 L Foot
+    100016: SilverKnight_Bip001 L Forearm
+    100018: SilverKnight_Bip001 L Hand
+    100020: SilverKnight_Bip001 L Thigh
+    100022: SilverKnight_Bip001 L Toe0
+    100024: SilverKnight_Bip001 L Toe0Nub
+    100026: SilverKnight_Bip001 L UpperArm
+    100028: SilverKnight_Bip001 Neck
+    100030: SilverKnight_Bip001 Pelvis
+    100032: SilverKnight_Bip001 Prop1
+    100034: SilverKnight_Bip001 Prop2
+    100036: SilverKnight_Bip001 R Calf
+    100038: SilverKnight_Bip001 R Clavicle
+    100040: SilverKnight_Bip001 R Foot
+    100042: SilverKnight_Bip001 R Forearm
+    100044: SilverKnight_Bip001 R Hand
+    100046: SilverKnight_Bip001 R Thigh
+    100048: SilverKnight_Bip001 R Toe0
+    100050: SilverKnight_Bip001 R Toe0Nub
+    100052: SilverKnight_Bip001 R UpperArm
+    100054: SilverKnight_Bip001 Spine
+    100056: SilverKnight_Bip001 Spine1
+    100058: SK_Body
+    100060: SK_Shield
+    100062: SK_Sword
+    100064: SK_Weapon_Bone001
+    100066: SK_Weapon_Bone002
+    100068: Sk_Weapon_Ctl
+    100070: Sk_Weapon_Ctl01
+    400000: //RootNode
+    400002: SilverKnight_Bip001
+    400004: SilverKnight_Bip001 Footsteps
+    400006: SilverKnight_Bip001 Head
+    400008: SilverKnight_Bip001 HeadNub
+    400010: SilverKnight_Bip001 L Calf
+    400012: SilverKnight_Bip001 L Clavicle
+    400014: SilverKnight_Bip001 L Foot
+    400016: SilverKnight_Bip001 L Forearm
+    400018: SilverKnight_Bip001 L Hand
+    400020: SilverKnight_Bip001 L Thigh
+    400022: SilverKnight_Bip001 L Toe0
+    400024: SilverKnight_Bip001 L Toe0Nub
+    400026: SilverKnight_Bip001 L UpperArm
+    400028: SilverKnight_Bip001 Neck
+    400030: SilverKnight_Bip001 Pelvis
+    400032: SilverKnight_Bip001 Prop1
+    400034: SilverKnight_Bip001 Prop2
+    400036: SilverKnight_Bip001 R Calf
+    400038: SilverKnight_Bip001 R Clavicle
+    400040: SilverKnight_Bip001 R Foot
+    400042: SilverKnight_Bip001 R Forearm
+    400044: SilverKnight_Bip001 R Hand
+    400046: SilverKnight_Bip001 R Thigh
+    400048: SilverKnight_Bip001 R Toe0
+    400050: SilverKnight_Bip001 R Toe0Nub
+    400052: SilverKnight_Bip001 R UpperArm
+    400054: SilverKnight_Bip001 Spine
+    400056: SilverKnight_Bip001 Spine1
+    400058: SK_Body
+    400060: SK_Shield
+    400062: SK_Sword
+    400064: SK_Weapon_Bone001
+    400066: SK_Weapon_Bone002
+    400068: Sk_Weapon_Ctl
+    400070: Sk_Weapon_Ctl01
+    4300000: SK_Body
+    4300002: SK_Sword
+    4300004: SK_Shield
+    7400000: SK_Attack00
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: SK_Body
+    13700002: SK_Shield
+    13700004: SK_Sword
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: SK_Attack00
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 26
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: SilverKnight_Bip001
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Footsteps
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Pelvis
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Pelvis/SilverKnight_Bip001 Spine
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Pelvis/SilverKnight_Bip001 Spine/SilverKnight_Bip001
+          L Thigh
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Pelvis/SilverKnight_Bip001 Spine/SilverKnight_Bip001
+          L Thigh/SilverKnight_Bip001 L Calf
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Pelvis/SilverKnight_Bip001 Spine/SilverKnight_Bip001
+          L Thigh/SilverKnight_Bip001 L Calf/SilverKnight_Bip001 L Foot
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Pelvis/SilverKnight_Bip001 Spine/SilverKnight_Bip001
+          L Thigh/SilverKnight_Bip001 L Calf/SilverKnight_Bip001 L Foot/SilverKnight_Bip001
+          L Toe0
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Pelvis/SilverKnight_Bip001 Spine/SilverKnight_Bip001
+          L Thigh/SilverKnight_Bip001 L Calf/SilverKnight_Bip001 L Foot/SilverKnight_Bip001
+          L Toe0/SilverKnight_Bip001 L Toe0Nub
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Pelvis/SilverKnight_Bip001 Spine/SilverKnight_Bip001
+          R Thigh
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Pelvis/SilverKnight_Bip001 Spine/SilverKnight_Bip001
+          R Thigh/SilverKnight_Bip001 R Calf
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Pelvis/SilverKnight_Bip001 Spine/SilverKnight_Bip001
+          R Thigh/SilverKnight_Bip001 R Calf/SilverKnight_Bip001 R Foot
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Pelvis/SilverKnight_Bip001 Spine/SilverKnight_Bip001
+          R Thigh/SilverKnight_Bip001 R Calf/SilverKnight_Bip001 R Foot/SilverKnight_Bip001
+          R Toe0
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Pelvis/SilverKnight_Bip001 Spine/SilverKnight_Bip001
+          R Thigh/SilverKnight_Bip001 R Calf/SilverKnight_Bip001 R Foot/SilverKnight_Bip001
+          R Toe0/SilverKnight_Bip001 R Toe0Nub
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Pelvis/SilverKnight_Bip001 Spine/SilverKnight_Bip001
+          Spine1
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Pelvis/SilverKnight_Bip001 Spine/SilverKnight_Bip001
+          Spine1/SilverKnight_Bip001 Neck
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Pelvis/SilverKnight_Bip001 Spine/SilverKnight_Bip001
+          Spine1/SilverKnight_Bip001 Neck/SilverKnight_Bip001 Head
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Pelvis/SilverKnight_Bip001 Spine/SilverKnight_Bip001
+          Spine1/SilverKnight_Bip001 Neck/SilverKnight_Bip001 Head/SilverKnight_Bip001
+          HeadNub
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Pelvis/SilverKnight_Bip001 Spine/SilverKnight_Bip001
+          Spine1/SilverKnight_Bip001 Neck/SilverKnight_Bip001 L Clavicle
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Pelvis/SilverKnight_Bip001 Spine/SilverKnight_Bip001
+          Spine1/SilverKnight_Bip001 Neck/SilverKnight_Bip001 L Clavicle/SilverKnight_Bip001
+          L UpperArm
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Pelvis/SilverKnight_Bip001 Spine/SilverKnight_Bip001
+          Spine1/SilverKnight_Bip001 Neck/SilverKnight_Bip001 L Clavicle/SilverKnight_Bip001
+          L UpperArm/SilverKnight_Bip001 L Forearm
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Pelvis/SilverKnight_Bip001 Spine/SilverKnight_Bip001
+          Spine1/SilverKnight_Bip001 Neck/SilverKnight_Bip001 L Clavicle/SilverKnight_Bip001
+          L UpperArm/SilverKnight_Bip001 L Forearm/SilverKnight_Bip001 L Hand
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Pelvis/SilverKnight_Bip001 Spine/SilverKnight_Bip001
+          Spine1/SilverKnight_Bip001 Neck/SilverKnight_Bip001 L Clavicle/SilverKnight_Bip001
+          L UpperArm/SilverKnight_Bip001 L Forearm/SilverKnight_Bip001 L Hand/Sk_Weapon_Ctl01
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Pelvis/SilverKnight_Bip001 Spine/SilverKnight_Bip001
+          Spine1/SilverKnight_Bip001 Neck/SilverKnight_Bip001 L Clavicle/SilverKnight_Bip001
+          L UpperArm/SilverKnight_Bip001 L Forearm/SilverKnight_Bip001 L Hand/Sk_Weapon_Ctl01/SK_Weapon_Bone002
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Pelvis/SilverKnight_Bip001 Spine/SilverKnight_Bip001
+          Spine1/SilverKnight_Bip001 Neck/SilverKnight_Bip001 R Clavicle
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Pelvis/SilverKnight_Bip001 Spine/SilverKnight_Bip001
+          Spine1/SilverKnight_Bip001 Neck/SilverKnight_Bip001 R Clavicle/SilverKnight_Bip001
+          R UpperArm
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Pelvis/SilverKnight_Bip001 Spine/SilverKnight_Bip001
+          Spine1/SilverKnight_Bip001 Neck/SilverKnight_Bip001 R Clavicle/SilverKnight_Bip001
+          R UpperArm/SilverKnight_Bip001 R Forearm
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Pelvis/SilverKnight_Bip001 Spine/SilverKnight_Bip001
+          Spine1/SilverKnight_Bip001 Neck/SilverKnight_Bip001 R Clavicle/SilverKnight_Bip001
+          R UpperArm/SilverKnight_Bip001 R Forearm/SilverKnight_Bip001 R Hand
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Pelvis/SilverKnight_Bip001 Spine/SilverKnight_Bip001
+          Spine1/SilverKnight_Bip001 Neck/SilverKnight_Bip001 R Clavicle/SilverKnight_Bip001
+          R UpperArm/SilverKnight_Bip001 R Forearm/SilverKnight_Bip001 R Hand/Sk_Weapon_Ctl
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Pelvis/SilverKnight_Bip001 Spine/SilverKnight_Bip001
+          Spine1/SilverKnight_Bip001 Neck/SilverKnight_Bip001 R Clavicle/SilverKnight_Bip001
+          R UpperArm/SilverKnight_Bip001 R Forearm/SilverKnight_Bip001 R Hand/Sk_Weapon_Ctl/SK_Weapon_Bone001
+        weight: 1
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Prop1
+        weight: 0
+      - path: SilverKnight_Bip001/SilverKnight_Bip001 Prop2
+        weight: 0
+      - path: SK_Body
+        weight: 0
+      - path: SK_Shield
+        weight: 0
+      - path: SK_Sword
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human:
+    - boneName: SilverKnight_Bip001 Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SilverKnight_Bip001 L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SilverKnight_Bip001 R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SilverKnight_Bip001 L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SilverKnight_Bip001 R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SilverKnight_Bip001 L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SilverKnight_Bip001 R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SilverKnight_Bip001 Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SilverKnight_Bip001 Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SilverKnight_Bip001 Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SilverKnight_Bip001 L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SilverKnight_Bip001 R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SilverKnight_Bip001 L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SilverKnight_Bip001 R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SilverKnight_Bip001 L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SilverKnight_Bip001 R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SilverKnight_Bip001 L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SilverKnight_Bip001 R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SilverKnight_Bip001 L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SilverKnight_Bip001 R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SilverKnight_Bip001 Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: SilverKnight(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SilverKnight_Bip001
+      position: {x: 0, y: 0.41547516, z: 0.025864257}
+      rotation: {x: -0.5, y: 0.5, z: 0.5, w: 0.5}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: SilverKnight_Bip001 Footsteps
+      position: {x: -0, y: 0, z: -0.41573185}
+      rotation: {x: 0, y: 0, z: -0.70710635, w: 0.7071073}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SilverKnight_Bip001 Prop2
+      position: {x: -0.014423699, y: 0.7199136, z: 0.046359327}
+      rotation: {x: -0.000000021073387, y: -0.7071068, z: -0.000000021073387, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SilverKnight_Bip001 Pelvis
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.5236999, y: -0.47511855, z: -0.475118, w: -0.52370197}
+      scale: {x: 1, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: SilverKnight_Bip001 Spine
+      position: {x: -0.100825004, y: -0.00997299, z: 0.00000016462246}
+      rotation: {x: -0.0000020186544, y: 0.0000007519348, z: 0.05761072, w: 0.9983391}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.9999998}
+      transformModified: 1
+    - name: SilverKnight_Bip001 Spine1
+      position: {x: -0.17683883, y: -0.00014039039, z: -3.8939105e-10}
+      rotation: {x: 0.000000013163509, y: -0.00000013227863, z: 0.038931638, w: 0.99924195}
+      scale: {x: 1, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: SilverKnight_Bip001 Neck
+      position: {x: -0.16908798, y: -0.036902845, z: -0.000000053058045}
+      rotation: {x: 0.000000016507695, y: -0.00000030246224, z: 0.11203125, w: -0.9937047}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: SilverKnight_Bip001 Head
+      position: {x: -0.03908386, y: -0.000000009536743, z: -3.6379787e-14}
+      rotation: {x: -0.00000003176464, y: 0.00000020092, z: -0.0753193, w: -0.9971595}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.99999994}
+      transformModified: 1
+    - name: SilverKnight_Bip001 HeadNub
+      position: {x: -0.7850099, y: 0.0000000023841857, z: 4.5474734e-15}
+      rotation: {x: 9.769962e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: SilverKnight_Bip001 L Clavicle
+      position: {x: 0.062606044, y: 0.025389051, z: 0.040238604}
+      rotation: {x: 0.69319844, y: 0.13955733, z: -0.70685536, w: 0.018850671}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: SilverKnight_Bip001 L UpperArm
+      position: {x: -0.16460595, y: -0.0000000047683715, z: 0}
+      rotation: {x: 0.011238874, y: -0.013938587, z: 0.08741432, w: 0.9960112}
+      scale: {x: 0.99999976, y: 1.0000001, z: 1.0000005}
+      transformModified: 1
+    - name: SilverKnight_Bip001 L Forearm
+      position: {x: -0.21398342, y: 0, z: 0.000000038146972}
+      rotation: {x: -0.0014230483, y: 0.010765822, z: 0.035008043, w: 0.9993281}
+      scale: {x: 1.0000001, y: 0.9999998, z: 0.9999998}
+      transformModified: 1
+    - name: SilverKnight_Bip001 L Hand
+      position: {x: -0.106331974, y: 0, z: -0.000000038146972}
+      rotation: {x: 0.66045463, y: 0.21749575, z: 0.2681424, w: -0.6667796}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: Sk_Weapon_Ctl01
+      position: {x: -0.25490084, y: -0.28300115, z: 0.09873486}
+      rotation: {x: 0.9242905, y: -0.31412724, z: -0.21321882, w: 0.039356586}
+      scale: {x: 3.3413494, y: 3.3413503, z: 3.34135}
+      transformModified: 1
+    - name: SK_Weapon_Bone002
+      position: {x: 0.10189247, y: -0.000000038146972, z: 0.034065474}
+      rotation: {x: -0.7046966, y: -0.00000006261179, z: -0.000000094519194, w: -0.7095089}
+      scale: {x: 0.2992802, y: 0.29928026, z: 0.2992803}
+      transformModified: 1
+    - name: SilverKnight_Bip001 R Clavicle
+      position: {x: 0.062606044, y: 0.02538927, z: -0.040238556}
+      rotation: {x: -0.6931984, y: -0.13955541, z: -0.70685565, w: 0.01885268}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SilverKnight_Bip001 R UpperArm
+      position: {x: -0.1646059, y: 0.0000000047683715, z: 0}
+      rotation: {x: -0.011239015, y: 0.013938429, z: 0.087414265, w: 0.9960112}
+      scale: {x: 0.99999976, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: SilverKnight_Bip001 R Forearm
+      position: {x: -0.21398342, y: 0, z: -0.000000038146972}
+      rotation: {x: 0.0014230798, y: -0.010765279, z: 0.035008237, w: 0.9993281}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: SilverKnight_Bip001 R Hand
+      position: {x: -0.106331974, y: 0.000000009536743, z: 0}
+      rotation: {x: 0.667057, y: 0.20064253, z: -0.24850881, w: 0.6730682}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000002}
+      transformModified: 1
+    - name: Sk_Weapon_Ctl
+      position: {x: -0.31467497, y: -0.31079626, z: -0.04110376}
+      rotation: {x: 0.24995066, y: 0.5028036, z: -0.1942925, w: 0.8043405}
+      scale: {x: 3.3413496, y: 3.3413506, z: 3.34135}
+      transformModified: 1
+    - name: SilverKnight_Bip001 Prop1
+      position: {x: 0.0000000023841857, y: 0.000000019073486, z: 0.000000009536743}
+      rotation: {x: 0.000000044596227, y: -0.00000012263963, z: 0.0000000131848275,
+        w: 1}
+      scale: {x: 0.29928023, y: 0.29928017, z: 0.29928026}
+      transformModified: 1
+    - name: SK_Weapon_Bone001
+      position: {x: -0, y: -0.000000038146972, z: -0.000000038146972}
+      rotation: {x: 0.4999997, y: -0.5000002, z: -0.49999982, w: -0.5000003}
+      scale: {x: 0.29928023, y: 0.2992803, z: 0.29928023}
+      transformModified: 1
+    - name: SilverKnight_Bip001 L Thigh
+      position: {x: 0.10130291, y: -0.0016914891, z: 0.14703944}
+      rotation: {x: 0.033329435, y: 0.9974653, z: -0.013413606, w: 0.061417613}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: SilverKnight_Bip001 L Calf
+      position: {x: -0.20205511, y: 0, z: 0}
+      rotation: {x: 0.000000048997396, y: 0.000000049404445, z: 0.15568136, w: 0.98780733}
+      scale: {x: 0.99999964, y: 0.9999999, z: 1.0000004}
+      transformModified: 1
+    - name: SilverKnight_Bip001 L Foot
+      position: {x: -0.14790408, y: 0.0000000047683715, z: 0}
+      rotation: {x: -0.0031223218, y: 0.06278802, z: -0.17934117, w: 0.9817763}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999976}
+      transformModified: 1
+    - name: SilverKnight_Bip001 L Toe0
+      position: {x: -0.07822209, y: 0.100668415, z: 0.000000019073486}
+      rotation: {x: 0.00000042708763, y: 0.00000045799626, z: -0.70710677, w: 0.7071068}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.99999994}
+      transformModified: 1
+    - name: SilverKnight_Bip001 L Toe0Nub
+      position: {x: -0.06765378, y: 1.8626451e-11, z: 0}
+      rotation: {x: -9.553415e-16, y: -1.755525e-30, z: 1, w: -1.8375893e-15}
+      scale: {x: -0.99999994, y: -1, z: -0.99999994}
+      transformModified: 1
+    - name: SilverKnight_Bip001 R Thigh
+      position: {x: 0.10130291, y: -0.0016906881, z: -0.14703944}
+      rotation: {x: 0.03332926, y: 0.9974654, z: 0.0134164365, w: -0.061417673}
+      scale: {x: 1, y: 1.0000002, z: 0.9999998}
+      transformModified: 1
+    - name: SilverKnight_Bip001 R Calf
+      position: {x: -0.20205511, y: 0, z: 0.000000019073486}
+      rotation: {x: -0.000000022645079, y: 0.000000030350357, z: 0.1556814, w: 0.9878074}
+      scale: {x: 1.0000001, y: 0.99999976, z: 1.0000001}
+      transformModified: 1
+    - name: SilverKnight_Bip001 R Foot
+      position: {x: -0.1479041, y: 0, z: 0}
+      rotation: {x: 0.0031224045, y: -0.06278812, z: -0.17934117, w: 0.98177636}
+      scale: {x: 1, y: 1.0000002, z: 0.9999999}
+      transformModified: 1
+    - name: SilverKnight_Bip001 R Toe0
+      position: {x: -0.07822209, y: 0.100668415, z: 0.000000019073486}
+      rotation: {x: 0.00000047906957, y: 0.00000044816093, z: -0.7071068, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SilverKnight_Bip001 R Toe0Nub
+      position: {x: -0.06765379, y: 1.8626451e-11, z: 0}
+      rotation: {x: -1.697032e-30, y: 9.553441e-16, z: 1.776357e-15, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: SK_Body
+      position: {x: 0, y: 0, z: -0.025720444}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SK_Shield
+      position: {x: -0.7187384, y: 0.45856193, z: 0.08694793}
+      rotation: {x: -0.7071069, y: 0, z: 0, w: 0.70710677}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SK_Sword
+      position: {x: 0.7639313, y: 0.42716286, z: 0.1158385}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 3cedff77899febd4dbdbda48f1ad341c,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
