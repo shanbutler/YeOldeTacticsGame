@@ -149,7 +149,6 @@ public class GridMovement : MonoBehaviour {
 					node.Value.gCost = node.Value.hCost = 0;
 				}
 				return returning;
-				break;
 			}
 
 			//Generate Successor
