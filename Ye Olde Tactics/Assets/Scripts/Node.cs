@@ -49,4 +49,14 @@ public class Node : MonoBehaviour {
 	{
 		return connections;
 	}
+	
+	/*
+	 * Calculates whether the goal position is within range of the node
+	 */
+	public bool equals(Vector3 goal) {
+		return (goal.x > this.transform.position.x - 0.5f &&
+			goal.x < this.transform.position.x + 0.5f &&
+			goal.z < this.transform.position.z + 0.5f &&
+			goal.z > this.transform.position.z - 0.5f);
+	}
 }
